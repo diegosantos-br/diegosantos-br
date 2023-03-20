@@ -21,8 +21,8 @@ Além da faculdade, estou realizando um curso na Udemy de Python, utilizando o f
 
 No momento estou em busca de alguma oportunidade dentro da área de desenvolvimento, preferencialmente estágio, para me capacitar mais e mais como profissional e como pessoa.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosantos-br&show_icons=true&theme=yeblu&count_private=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantos-br&layout=compact&show_icons=true&theme=yeblu&count_private=true&locale=pt-br)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosantos-br&show_icons=true&theme=yeblu&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantos-br&layout=compact&show_icons=true&theme=yeblu&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
